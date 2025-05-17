@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\fesh_cli.dir/objects.a
+C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\fesh_cli.dir/objects.a @CMakeFiles\fesh_cli.dir\objects1.rsp
+C:\msys64\ucrt64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\fesh_cli.dir/objects.a -Wl,--no-whole-archive -o fesh_cli.exe -Wl,--out-implib,libfesh_cli.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\fesh_cli.dir\linkLibs.rsp

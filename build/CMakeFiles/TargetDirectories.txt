@@ -1,0 +1,4 @@
+C:/Users/31641/Desktop/Code/build/CMakeFiles/fesh.dir
+C:/Users/31641/Desktop/Code/build/CMakeFiles/fesh_cli.dir
+C:/Users/31641/Desktop/Code/build/CMakeFiles/edit_cache.dir
+C:/Users/31641/Desktop/Code/build/CMakeFiles/rebuild_cache.dir

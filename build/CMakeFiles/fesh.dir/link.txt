@@ -1,0 +1,2 @@
+C:\msys64\ucrt64\bin\ar.exe qc libfesh.a CMakeFiles/fesh.dir/src/fesh.cpp.obj CMakeFiles/fesh.dir/src/modes.cpp.obj CMakeFiles/fesh.dir/src/image.cpp.obj
+C:\msys64\ucrt64\bin\ranlib.exe libfesh.a
