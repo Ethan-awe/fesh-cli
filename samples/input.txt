@@ -1,0 +1,1 @@
+This is a test message used to demonstrate FESH CLI encryption, hex dump, and verification features.
